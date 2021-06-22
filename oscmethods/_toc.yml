@@ -1,0 +1,13 @@
+format: jb-book
+root: docs/index
+options:
+  caption: Notebooks
+chapters:
+- file: notebooks/00-Introduction
+- file: notebooks/01-OscillationPresence
+- file: notebooks/02-BandDefinitions
+- file: notebooks/03-AperiodicActivity
+- file: notebooks/04-TemporalFluctuations
+- file: notebooks/05-WaveformShape
+- file: notebooks/06-SpatialSeparation
+- file: notebooks/07-PowerConfounds

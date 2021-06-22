@@ -1,0 +1,30 @@
+#######################################################################################
+# Book settings
+title     : Oscillation Methods
+author    : Thomas Donoghue, Natalie Schaworonkow, Bradley Voytek
+copyright : "2021-"
+logo      : ""
+
+#######################################################################################
+# Execution settings
+execute:
+  execute_notebooks           : cache
+
+#######################################################################################
+# HTML-specific settings
+html:
+  home_page_in_navbar         : false
+
+# #######################################################################################
+# Interact link settings
+notebook_interface            : "notebook"
+
+#######################################################################################
+# Launch button settings
+repository:
+  url                         : https://github.com/oscillationmethods/
+  path_to_book                : "oscmethods"
+
+binder:
+  binderhub_url               : "https://mybinder.org"
+  text                        : "Launch binder"
