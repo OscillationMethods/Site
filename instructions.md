@@ -7,7 +7,7 @@ site.
 ## Overview
 
 This repository and associated website serve as a hosted version of the
-[Oscillation Methods](https://github.com/voytekresearch/oscillationmethods) project.
+[Oscillation Methods](https://github.com/OscillationMethods/oscillationmethods) project.
 
 This repository,
 [Site](https://github.com/OscillationMethods/Site),
@@ -29,4 +29,4 @@ Content for the website is a hosted copy of the materials for the Oscillation Me
 
 Note that the source of this material is not managed or stored in this repository,
 as they are copied over from the
-[project repository](https://github.com/voytekresearch/oscillationmethods).
+[project repository](https://github.com/OscillationMethods/oscillationmethods).

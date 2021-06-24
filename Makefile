@@ -11,8 +11,8 @@
 ## VARIABLES
 
 BOOK			= oscmethods
-CONTENT-ORG		= https://github.com/voytekresearch
-BOOK-ORG		= https://github.com/oscillationmethods
+CONTENT-ORG		= https://github.com/OscillationMethods
+BOOK-ORG		= https://github.com/OscillationMethods
 SITE-LOC		= oscillationmethods.github.io
 
 ##########################################################################

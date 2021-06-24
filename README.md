@@ -6,11 +6,11 @@
 ## Overview
 
 This repository is the source repository for creating the
-[Oscillation Methods](oscillationmethods.github.io)
+[Oscillation Methods](https://oscillationmethods.github.io)
 website.
 
 These materials serve as a hosted version of materials for the
-[Oscillation Methods](https://github.com/voytekresearch/oscillationmethods)
+[Oscillation Methods](https://github.com/OscillationMethods/oscillationmethods)
 project.
 
 This repository has the tools for building the website.
@@ -28,7 +28,7 @@ Materials require packages from the scientific Python ecosystem.
 These dependencies can all be installed using the
 [Anaconda distribution](https://www.anaconda.com/products/individual).
 Details and instructions on the dependencies and how to get them are available in the
-[Project Repository](https://github.com/voytekresearch/oscillationmethods).
+[Project Repository](https://github.com/OscillationMethods/oscillationmethods).
 
 The website is created using [JupyterBook](https://github.com/executablebooks/jupyter-book).
 
