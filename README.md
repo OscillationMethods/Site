@@ -18,6 +18,15 @@ The built version of book is then posted to the
 [website repository](https://github.com/OscillationMethods/oscillationmethods.github.io)
 for hosting.
 
+## Reference
+
+If you wish to cite information presented on the project website, please cite the project paper:
+
+    Donoghue T, Schaworonkow N, & Voytek B. Methodological considerations for
+    studying neural oscillations. European Journal of Neuroscience. DOI: 10.1111/ejn.15361
+
+Direct Link: https://onlinelibrary.wiley.com/doi/10.1111/ejn.15361
+
 ## Dependencies
 
 This project uses the Python programming language, and requires Python >= 3.6.
