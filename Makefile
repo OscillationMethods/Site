@@ -11,8 +11,8 @@
 ## VARIABLES
 
 BOOK			= oscmethods
-CONTENT-ORG		= https://github.com/OscillationMethods
-BOOK-ORG		= https://github.com/OscillationMethods
+GITHUB-ORG		= https://github.com/OscillationMethods
+CONTENT-REPO		= oscillationmethods
 SITE-LOC		= oscillationmethods.github.io
 
 ##########################################################################
@@ -26,7 +26,7 @@ clone:
 clone-notebooks:
 
 	# Copy tutorial materials
-	@git clone --depth 1 $(CONTENT-ORG)/OscillationMethods $(BOOK)/notebooks
+	@git clone --depth 1 $(GITHUB-ORG)/$(CONTENT-REPO) $(BOOK)/notebooks
 	@rm $(BOOK)/notebooks/README.md
 	@rm -rf $(BOOK)/notebooks/.git
 
@@ -57,7 +57,7 @@ deploy:
 
 	# Clone the website deployment repository
 	rm -rf $(BOOK)/_build/deploy/
-	git clone --depth 1 $(BOOK-ORG)/$(SITE-LOC) $(BOOK)/_build/deploy/
+	git clone --depth 1 $(GITHUB-ORG)/$(SITE-LOC) $(BOOK)/_build/deploy/
 
 	# A .nojekyll file tells Github pages to bypass Jekyll processing
 	touch $(BOOK)/_build/deploy/.nojekyll
