@@ -1,5 +1,8 @@
 # Ignore local builds of the textbook
 oscmethods/_build/*
 
+# Ignore copied in folder of notebooks
+oscmethods/notebooks/
+
 # Ignore any notebook checkpoint files
 *.ipynb_checkpoints*
