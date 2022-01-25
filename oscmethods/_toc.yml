@@ -5,6 +5,8 @@ parts:
     chapters:
     - file: docs/viz
       title: Visualizers
+    - file: docs/checklist
+      title: Checklist
   - caption: Notebooks
     chapters:
     - file: notebooks/00-Introduction
