@@ -22,8 +22,8 @@ for hosting.
 
 If you wish to cite information presented on the project website, please cite the project paper:
 
-    Donoghue T, Schaworonkow N, & Voytek B (2021). Methodological considerations for
-    studying neural oscillations. European Journal of Neuroscience. DOI: 10.1111/ejn.15361
+    Donoghue T, Schaworonkow N, & Voytek B (2022). Methodological considerations for studying neural 
+    oscillations. European Journal of Neuroscience, 55(11-12), 3502-3527 DOI: 10.1111/ejn.15361
 
 Direct Link: https://onlinelibrary.wiley.com/doi/10.1111/ejn.15361
 
