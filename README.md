@@ -13,8 +13,7 @@ These materials serve as a hosted version of materials for the
 [Oscillation Methods](https://github.com/OscillationMethods/oscillationmethods)
 project.
 
-This repository has the tools for building the website.
-The built version of book is then posted to the
+This repository creates the website, which is then posted to the
 [website repository](https://github.com/OscillationMethods/oscillationmethods.github.io)
 for hosting.
 
@@ -43,8 +42,9 @@ This repository contains the following sections:
 
 This project uses the Python programming language.
 
-The website is created using [JupyterBook](https://github.com/executablebooks/jupyter-book),
-with the full set of requirements to build the website available in the `requirements.txt` file.
+The website is created using [JupyterBook](https://github.com/executablebooks/jupyter-book).
+
+The full set of requirements to build the website available in the `requirements.txt` file.
 
 The materials that are hosted on the website are in the
 [Project Repository](https://github.com/OscillationMethods/oscillationmethods).
